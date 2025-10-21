@@ -3,7 +3,7 @@
 
 Wer kennt des net? Mr will obedengt a Gedicht oder a Gschichtle am Rechner auf onsera beliabta Språch schreiba, aber dia Kist vôr dr oegena Nås kå bloß Englisch oder Schriftdeutsch?!?
 
-Drom han i en mühhafter Hådarbaet ågfanga, für LaTeX a brandneus Wörterbuach zom schreiba.
+Drom han i en mühhafter Hådarbaet ågfanga, für LaTeX a brandneus Wörterbuach zom schreiba. Tatsächlich håt mir die Autokorrektur scho bei etwa 170 Wörter ågfanga, maene oegene Tippfehler zom korrigiera.
 
 ## Alaetong (TeXstudio)
 - Dia zwoe Dateia "schwaebisch.dic" ond "schwaebisch.aff" ralada ond em Ordner C:\Program Files\texstudio\dictionaries abspeichera (Admin-Rechte notwendig),
@@ -24,5 +24,8 @@ Der Standard håt Zaeche, mô s em Schriftdeutscha net (ond em Englischa erst re
 ## Nächste Schritt (en Planong):
 
 - Weitere Wörter auffülla,
-- A Grammatik zsemastella, 
-- Oregelmäßige Tunwörter als Tabelle zsemastella.
+- A Grammatik zsemastella:
+  - Übersicht en ra pdf,
+  - Grammatik definiera für dia `schwaebisch.aff` Datei,
+- Übersicht über dia Abweichonga aus dr Bibel für Schwoba zsemmastella (pdf),  
+- Oregelmäßige Tunwörter als Tabelle (evtl. pdf) zsemastella.
